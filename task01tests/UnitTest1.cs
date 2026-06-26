@@ -1,7 +1,6 @@
 ﻿using task01;
 using Xunit;
 
-namespace task01tests;
 
 public class StringExtensionsTests
 {
